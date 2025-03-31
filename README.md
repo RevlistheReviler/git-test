@@ -1,3 +1,2 @@
 # git-test
-a quick test repo 
-hello odin xd
+a quick test repo
